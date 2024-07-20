@@ -9,6 +9,8 @@ LOS 20:
   ignoreClientHostname: true 
 LOS 21:
   ignoreClientHostname: true
+LOS 18.1:
+  ignoreClientHostname: true
 PixelOS:
   ignoreClientHostname: true
 LOS 16:
